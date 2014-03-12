@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1557100/hama/trunk/c++/src/main/native/examples/impl
+END
+DenseDoubleVector.hh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1544761/hama/trunk/c++/src/main/native/examples/impl/DenseDoubleVector.hh
+END
+DenseDoubleVector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1544761/hama/trunk/c++/src/main/native/examples/impl/DenseDoubleVector.cc
+END
+summation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1557100/hama/trunk/c++/src/main/native/examples/impl/summation.cc
+END
+piestimator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1557100/hama/trunk/c++/src/main/native/examples/impl/piestimator.cc
+END
+matrixmultiplication.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1557100/hama/trunk/c++/src/main/native/examples/impl/matrixmultiplication.cc
+END

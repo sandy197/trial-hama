@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/taskallocation
+END
+TaskAllocationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1369575/hama/trunk/core/src/main/java/org/apache/hama/bsp/taskallocation/TaskAllocationStrategy.java
+END
+BSPResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1369575/hama/trunk/core/src/main/java/org/apache/hama/bsp/taskallocation/BSPResource.java
+END
+BestEffortDataLocalTaskAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/taskallocation/BestEffortDataLocalTaskAllocator.java
+END
+RawSplitResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/taskallocation/RawSplitResource.java
+END

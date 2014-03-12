@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1557100/hama/trunk/core/src/main/java/org/apache/hama/pipes/util
+END
+DistributedCacheUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1550674/hama/trunk/core/src/main/java/org/apache/hama/pipes/util/DistributedCacheUtil.java
+END
+SequenceFileDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1557100/hama/trunk/core/src/main/java/org/apache/hama/pipes/util/SequenceFileDumper.java
+END

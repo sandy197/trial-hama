@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/test/java/org/apache/hama/ml/regression
+END
+VectorDoubleFileInputFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/test/java/org/apache/hama/ml/regression/VectorDoubleFileInputFormatTest.java
+END
+TestLinearRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/test/java/org/apache/hama/ml/regression/TestLinearRegression.java
+END
+LinearRegressionModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/test/java/org/apache/hama/ml/regression/LinearRegressionModelTest.java
+END
+TestLogisticRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/test/java/org/apache/hama/ml/regression/TestLogisticRegression.java
+END
+LogisticRegressionModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/test/java/org/apache/hama/ml/regression/LogisticRegressionModelTest.java
+END

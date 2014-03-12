@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1558747/hama/trunk/ml/src/main/java/org/apache/hama/ml/recommendation/cf/function
+END
+OnlineUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1558747/hama/trunk/ml/src/main/java/org/apache/hama/ml/recommendation/cf/function/OnlineUpdate.java
+END
+MeanAbsError.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1558747/hama/trunk/ml/src/main/java/org/apache/hama/ml/recommendation/cf/function/MeanAbsError.java
+END

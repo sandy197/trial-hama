@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1470171/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io
+END
+SpilledDataInputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1442969/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/SpilledDataInputBuffer.java
+END
+WriteSpilledDataProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/WriteSpilledDataProcessor.java
+END
+ReadIndexStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/ReadIndexStatus.java
+END
+DualChannelByteBufferStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/DualChannelByteBufferStream.java
+END
+SpilledByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/SpilledByteBuffer.java
+END
+DuplexByteArrayChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/DuplexByteArrayChannel.java
+END
+ReusableByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1443152/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/ReusableByteBuffer.java
+END
+BufferedReadStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/BufferedReadStatus.java
+END
+SyncReadByteBufferInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/SyncReadByteBufferInputStream.java
+END
+CombineSpilledDataProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/CombineSpilledDataProcessor.java
+END
+PreFetchCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/PreFetchCache.java
+END
+DirectByteBufferInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1443152/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/DirectByteBufferInputStream.java
+END
+DirectByteBufferOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/DirectByteBufferOutputStream.java
+END
+SpilledDataReadStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/SpilledDataReadStatus.java
+END
+SpilledDataProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1442969/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/SpilledDataProcessor.java
+END
+SpillingDataOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1470171/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/SpillingDataOutputBuffer.java
+END
+ByteBufferInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/ByteBufferInputStream.java
+END
+SyncFlushByteBufferOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/SyncFlushByteBufferOutputStream.java
+END
+ByteBufferOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/ByteBufferOutputStream.java
+END
+SpillWriteIndexStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1442969/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/io/SpillWriteIndexStatus.java
+END

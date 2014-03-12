@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1565560/hama/trunk/ml/src/main/java/org/apache/hama/ml/perception
+END
+SmallMultiLayerPerceptron.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1556694/hama/trunk/ml/src/main/java/org/apache/hama/ml/perception/SmallMultiLayerPerceptron.java
+END
+PerceptronTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/main/java/org/apache/hama/ml/perception/PerceptronTrainer.java
+END
+SmallMLPMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1565560/hama/trunk/ml/src/main/java/org/apache/hama/ml/perception/SmallMLPMessage.java
+END
+SmallMLPTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1554532/hama/trunk/ml/src/main/java/org/apache/hama/ml/perception/SmallMLPTrainer.java
+END
+MultiLayerPerceptron.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1548171/hama/trunk/ml/src/main/java/org/apache/hama/ml/perception/MultiLayerPerceptron.java
+END
+MLPMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1565560/hama/trunk/ml/src/main/java/org/apache/hama/ml/perception/MLPMessage.java
+END

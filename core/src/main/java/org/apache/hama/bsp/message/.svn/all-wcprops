@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1570039/hama/trunk/core/src/main/java/org/apache/hama/bsp/message
+END
+HamaMessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1570039/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/HamaMessageManager.java
+END
+MessageManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1557680/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/MessageManagerFactory.java
+END
+HamaMessageManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1570039/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/HamaMessageManagerImpl.java
+END
+OutgoingMessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1570039/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/OutgoingMessageManager.java
+END
+MessageEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1369575/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/MessageEventListener.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/package.html
+END
+MessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1570039/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/MessageManager.java
+END
+OutgoingPOJOMessageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1570039/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/OutgoingPOJOMessageBundle.java
+END
+AbstractMessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1570039/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/AbstractMessageManager.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/test/java/org/apache/hama/commons/math
+END
+TestDenseDoubleVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/test/java/org/apache/hama/commons/math/TestDenseDoubleVector.java
+END
+TestFunctionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/test/java/org/apache/hama/commons/math/TestFunctionFactory.java
+END
+TestDenseDoubleMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/test/java/org/apache/hama/commons/math/TestDenseDoubleMatrix.java
+END

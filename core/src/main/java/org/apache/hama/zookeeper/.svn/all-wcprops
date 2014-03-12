@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1557726/hama/trunk/core/src/main/java/org/apache/hama/zookeeper
+END
+QuorumPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1557726/hama/trunk/core/src/main/java/org/apache/hama/zookeeper/QuorumPeer.java
+END
+ZKServerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/zookeeper/ZKServerTool.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/zookeeper/package.html
+END

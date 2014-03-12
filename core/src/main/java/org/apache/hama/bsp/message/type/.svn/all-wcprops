@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/type
+END
+ByteMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/type/ByteMessage.java
+END
+BSPMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/type/BSPMessage.java
+END
+IntegerDoubleMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/type/IntegerDoubleMessage.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/type/package.html
+END
+DoubleMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/type/DoubleMessage.java
+END
+IntegerMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/type/IntegerMessage.java
+END
+BooleanMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/type/BooleanMessage.java
+END
+LongMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/type/LongMessage.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/main/java/org/apache/hama/ml/distance
+END
+DistanceMeasurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/main/java/org/apache/hama/ml/distance/DistanceMeasurer.java
+END
+EuclidianDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/main/java/org/apache/hama/ml/distance/EuclidianDistance.java
+END
+CosineDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/main/java/org/apache/hama/ml/distance/CosineDistance.java
+END

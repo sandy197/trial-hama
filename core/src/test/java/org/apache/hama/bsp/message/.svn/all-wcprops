@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1570039/hama/trunk/core/src/test/java/org/apache/hama/bsp/message
+END
+TestMessageIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1519240/hama/trunk/core/src/test/java/org/apache/hama/bsp/message/TestMessageIO.java
+END
+TestMessageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1470171/hama/trunk/core/src/test/java/org/apache/hama/bsp/message/TestMessageBundle.java
+END
+TestDiskQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1421058/hama/trunk/core/src/test/java/org/apache/hama/bsp/message/TestDiskQueue.java
+END
+TestHamaMessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1565560/hama/trunk/core/src/test/java/org/apache/hama/bsp/message/TestHamaMessageManager.java
+END
+TestSpillingQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1557663/hama/trunk/core/src/test/java/org/apache/hama/bsp/message/TestSpillingQueue.java
+END

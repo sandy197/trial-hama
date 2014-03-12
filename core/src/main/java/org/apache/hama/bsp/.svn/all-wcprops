@@ -1,0 +1,533 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1572839/hama/trunk/core/src/main/java/org/apache/hama/bsp
+END
+BSPJobClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1567071/hama/trunk/core/src/main/java/org/apache/hama/bsp/BSPJobClient.java
+END
+BSPJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1558725/hama/trunk/core/src/main/java/org/apache/hama/bsp/BSPJob.java
+END
+TaskID.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/TaskID.java
+END
+KeyValueTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1465852/hama/trunk/core/src/main/java/org/apache/hama/bsp/KeyValueTextInputFormat.java
+END
+BSP.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/BSP.java
+END
+Queue.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/Queue.java
+END
+KillJobAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1442486/hama/trunk/core/src/main/java/org/apache/hama/bsp/KillJobAction.java
+END
+NonSplitSequenceFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1482677/hama/trunk/core/src/main/java/org/apache/hama/bsp/NonSplitSequenceFileInputFormat.java
+END
+LocalBSPRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1570039/hama/trunk/core/src/main/java/org/apache/hama/bsp/LocalBSPRunner.java
+END
+Superstep.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/Superstep.java
+END
+JobProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/JobProfile.java
+END
+TaskRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/TaskRunner.java
+END
+ReinitGroomAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/ReinitGroomAction.java
+END
+UpdatePeerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/UpdatePeerAction.java
+END
+BSPMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/bsp/BSPMaster.java
+END
+Counters.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/Counters.java
+END
+NullInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/NullInputFormat.java
+END
+TaskLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1465852/hama/trunk/core/src/main/java/org/apache/hama/bsp/TaskLog.java
+END
+HashPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/HashPartitioner.java
+END
+TaskStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1369575/hama/trunk/core/src/main/java/org/apache/hama/bsp/TaskStatus.java
+END
+BSPTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1544761/hama/trunk/core/src/main/java/org/apache/hama/bsp/BSPTask.java
+END
+OutputCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/OutputCollector.java
+END
+GroomServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1565212/hama/trunk/core/src/main/java/org/apache/hama/bsp/GroomServer.java
+END
+TaskInProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/TaskInProgress.java
+END
+Directive.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/Directive.java
+END
+JobStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1369575/hama/trunk/core/src/main/java/org/apache/hama/bsp/JobStatus.java
+END
+KeyValueLineRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1465852/hama/trunk/core/src/main/java/org/apache/hama/bsp/KeyValueLineRecordReader.java
+END
+BSPJobContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1430555/hama/trunk/core/src/main/java/org/apache/hama/bsp/BSPJobContext.java
+END
+ClusterStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/ClusterStatus.java
+END
+JobInProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/JobInProgress.java
+END
+ID.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/ID.java
+END
+TrackedRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/TrackedRecordReader.java
+END
+RecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/RecordReader.java
+END
+NullOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/NullOutputFormat.java
+END
+GroomServerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/GroomServerManager.java
+END
+GroomServerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/GroomServerAction.java
+END
+FileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/FileOutputFormat.java
+END
+OutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/OutputFormat.java
+END
+LineRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/LineRecordReader.java
+END
+RecordWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/RecordWriter.java
+END
+DirectiveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/DirectiveHandler.java
+END
+GroomServerStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/GroomServerStatus.java
+END
+TaskAttemptID.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/TaskAttemptID.java
+END
+TextOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1411326/hama/trunk/core/src/main/java/org/apache/hama/bsp/TextOutputFormat.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/package.html
+END
+JobChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/JobChangeEvent.java
+END
+BSPMessageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1570039/hama/trunk/core/src/main/java/org/apache/hama/bsp/BSPMessageBundle.java
+END
+RecoverTaskAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/RecoverTaskAction.java
+END
+SequenceFileRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/SequenceFileRecordReader.java
+END
+FileSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/FileSplit.java
+END
+LaunchTaskAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1369575/hama/trunk/core/src/main/java/org/apache/hama/bsp/LaunchTaskAction.java
+END
+JobInProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/JobInProgressListener.java
+END
+BSPJobID.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/BSPJobID.java
+END
+DirectiveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/DirectiveException.java
+END
+TaskCompletionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/TaskCompletionEvent.java
+END
+SuperstepBSP.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/SuperstepBSP.java
+END
+TaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/TaskScheduler.java
+END
+SequenceFileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/SequenceFileOutputFormat.java
+END
+Messagable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/Messagable.java
+END
+SequenceFileRecordWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1411326/hama/trunk/core/src/main/java/org/apache/hama/bsp/SequenceFileRecordWriter.java
+END
+BSPInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/BSPInterface.java
+END
+CombineFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/CombineFileInputFormat.java
+END
+TaskAttemptContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/TaskAttemptContext.java
+END
+TextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1411326/hama/trunk/core/src/main/java/org/apache/hama/bsp/TextInputFormat.java
+END
+QueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/QueueManager.java
+END
+ReportGroomStatusDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/ReportGroomStatusDirective.java
+END
+MonitorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/MonitorManager.java
+END
+BSPPeerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1569340/hama/trunk/core/src/main/java/org/apache/hama/bsp/BSPPeerImpl.java
+END
+TaskLogAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/TaskLogAppender.java
+END
+FCFSQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/FCFSQueue.java
+END
+CombineFileSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/CombineFileSplit.java
+END
+Combiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/Combiner.java
+END
+BSPPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1550360/hama/trunk/core/src/main/java/org/apache/hama/bsp/BSPPeer.java
+END
+Partitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/Partitioner.java
+END
+SequenceFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1411326/hama/trunk/core/src/main/java/org/apache/hama/bsp/SequenceFileInputFormat.java
+END
+PartitioningRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1572839/hama/trunk/core/src/main/java/org/apache/hama/bsp/PartitioningRunner.java
+END
+BSPTaskRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/BSPTaskRunner.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/Task.java
+END
+DispatchTasksDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/DispatchTasksDirective.java
+END
+InputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/InputFormat.java
+END
+FileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1476398/hama/trunk/core/src/main/java/org/apache/hama/bsp/FileInputFormat.java
+END
+TaskLogServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1442488/hama/trunk/core/src/main/java/org/apache/hama/bsp/TaskLogServlet.java
+END
+CommitTaskAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/CommitTaskAction.java
+END
+Schedulable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/Schedulable.java
+END
+SimpleTaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1449666/hama/trunk/core/src/main/java/org/apache/hama/bsp/SimpleTaskScheduler.java
+END
+RunningJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/bsp/RunningJob.java
+END
+InputSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/InputSplit.java
+END
+KillTaskAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/bsp/KillTaskAction.java
+END

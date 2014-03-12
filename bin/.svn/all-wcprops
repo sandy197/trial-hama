@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/asf/!svn/ver/1557972/hama/trunk/bin
+END
+start-bspd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1350092/hama/trunk/bin/start-bspd.sh
+END
+grooms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/1401149/hama/trunk/bin/grooms.sh
+END
+zookeepers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/1350092/hama/trunk/bin/zookeepers.sh
+END
+hama-daemon.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/1350092/hama/trunk/bin/hama-daemon.sh
+END
+hama-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/1350092/hama/trunk/bin/hama-config.sh
+END
+hama-daemons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/1350092/hama/trunk/bin/hama-daemons.sh
+END
+stop-bspd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1350092/hama/trunk/bin/stop-bspd.sh
+END
+hama
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/asf/!svn/ver/1557972/hama/trunk/bin/hama
+END

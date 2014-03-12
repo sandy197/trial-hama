@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1569340/hama/trunk/ml/src/main/java/org/apache/hama/ml/semiclustering
+END
+SemiClusterVertexOutputWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1521361/hama/trunk/ml/src/main/java/org/apache/hama/ml/semiclustering/SemiClusterVertexOutputWriter.java
+END
+SemiClusteringVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1569340/hama/trunk/ml/src/main/java/org/apache/hama/ml/semiclustering/SemiClusteringVertex.java
+END
+SemiClusterMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1569340/hama/trunk/ml/src/main/java/org/apache/hama/ml/semiclustering/SemiClusterMessage.java
+END
+SemiClusterDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1569340/hama/trunk/ml/src/main/java/org/apache/hama/ml/semiclustering/SemiClusterDetails.java
+END
+SemiClusterTextReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1525751/hama/trunk/ml/src/main/java/org/apache/hama/ml/semiclustering/SemiClusterTextReader.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1573446/hama/trunk/commons/src/main/java/org/apache/hama/commons/math
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/Function.java
+END
+SquareVectorFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1564008/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/SquareVectorFunction.java
+END
+Tuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/Tuple.java
+END
+Tanh.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/Tanh.java
+END
+Sigmoid.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/Sigmoid.java
+END
+DoubleVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1564008/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/DoubleVector.java
+END
+DoubleDoubleVectorFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/DoubleDoubleVectorFunction.java
+END
+IdentityFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/IdentityFunction.java
+END
+DoubleMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/DoubleMatrix.java
+END
+NamedDoubleVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1573446/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/NamedDoubleVector.java
+END
+DoubleVectorFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/DoubleVectorFunction.java
+END
+CrossEntropy.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/CrossEntropy.java
+END
+DoubleDoubleFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/DoubleDoubleFunction.java
+END
+DenseDoubleVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1564008/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/DenseDoubleVector.java
+END
+FunctionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/FunctionFactory.java
+END
+SquaredError.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/SquaredError.java
+END
+DenseDoubleMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/DenseDoubleMatrix.java
+END
+DoubleFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/math/DoubleFunction.java
+END

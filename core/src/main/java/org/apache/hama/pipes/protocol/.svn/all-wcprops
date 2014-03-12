@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1558725/hama/trunk/core/src/main/java/org/apache/hama/pipes/protocol
+END
+BinaryProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1557100/hama/trunk/core/src/main/java/org/apache/hama/pipes/protocol/BinaryProtocol.java
+END
+MessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1550674/hama/trunk/core/src/main/java/org/apache/hama/pipes/protocol/MessageType.java
+END
+DownwardProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1557100/hama/trunk/core/src/main/java/org/apache/hama/pipes/protocol/DownwardProtocol.java
+END
+StreamingProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1557100/hama/trunk/core/src/main/java/org/apache/hama/pipes/protocol/StreamingProtocol.java
+END
+UplinkReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1558725/hama/trunk/core/src/main/java/org/apache/hama/pipes/protocol/UplinkReader.java
+END

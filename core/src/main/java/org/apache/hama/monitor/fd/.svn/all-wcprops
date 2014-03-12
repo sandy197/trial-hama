@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor/fd
+END
+Supervisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor/fd/Supervisor.java
+END
+UDPSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor/fd/UDPSensor.java
+END
+FDProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/monitor/fd/FDProvider.java
+END
+NodeStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor/fd/NodeStatus.java
+END
+Sensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor/fd/Sensor.java
+END
+UDPSupervisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1442488/hama/trunk/core/src/main/java/org/apache/hama/monitor/fd/UDPSupervisor.java
+END
+NodeEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor/fd/NodeEventListener.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1565212/hama/trunk/core/src/main/java/org/apache/hama/ipc
+END
+RemoteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/ipc/RemoteException.java
+END
+MasterProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/ipc/MasterProtocol.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/ipc/package.html
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1518059/hama/trunk/core/src/main/java/org/apache/hama/ipc/Client.java
+END
+VersionedProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/ipc/VersionedProtocol.java
+END
+BSPPeerProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1565212/hama/trunk/core/src/main/java/org/apache/hama/ipc/BSPPeerProtocol.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/ipc/Status.java
+END
+RPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/ipc/RPC.java
+END
+RetryPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/ipc/RetryPolicy.java
+END
+RetryPolicies.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/ipc/RetryPolicies.java
+END
+HamaRPCProtocolVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/ipc/HamaRPCProtocolVersion.java
+END
+GroomProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1557550/hama/trunk/core/src/main/java/org/apache/hama/ipc/GroomProtocol.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1524879/hama/trunk/core/src/main/java/org/apache/hama/ipc/Server.java
+END
+JobSubmissionProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/ipc/JobSubmissionProtocol.java
+END
+ConnectionHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/ipc/ConnectionHeader.java
+END

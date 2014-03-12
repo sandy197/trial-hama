@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1558747/hama/trunk/commons/src/main/java/org/apache/hama/commons/io
+END
+MatrixWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1558747/hama/trunk/commons/src/main/java/org/apache/hama/commons/io/MatrixWritable.java
+END
+KeyValueWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1556694/hama/trunk/commons/src/main/java/org/apache/hama/commons/io/KeyValueWritable.java
+END
+StringArrayWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/io/StringArrayWritable.java
+END
+PipesKeyValueWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1544761/hama/trunk/commons/src/main/java/org/apache/hama/commons/io/PipesKeyValueWritable.java
+END
+SparseVectorWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/io/SparseVectorWritable.java
+END
+DenseVectorWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1555028/hama/trunk/commons/src/main/java/org/apache/hama/commons/io/DenseVectorWritable.java
+END
+VectorWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1548995/hama/trunk/commons/src/main/java/org/apache/hama/commons/io/VectorWritable.java
+END
+PipesVectorWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1544761/hama/trunk/commons/src/main/java/org/apache/hama/commons/io/PipesVectorWritable.java
+END
+TextArrayWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1537427/hama/trunk/commons/src/main/java/org/apache/hama/commons/io/TextArrayWritable.java
+END

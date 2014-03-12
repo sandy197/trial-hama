@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1567065/hama/trunk/ml/src/main/java/org/apache/hama/ml/recommendation/cf
+END
+OnlineCF.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1567065/hama/trunk/ml/src/main/java/org/apache/hama/ml/recommendation/cf/OnlineCF.java
+END
+KeyValueParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1558747/hama/trunk/ml/src/main/java/org/apache/hama/ml/recommendation/cf/KeyValueParser.java
+END
+InputConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1558747/hama/trunk/ml/src/main/java/org/apache/hama/ml/recommendation/cf/InputConverter.java
+END
+OnlineTrainBSP.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1558747/hama/trunk/ml/src/main/java/org/apache/hama/ml/recommendation/cf/OnlineTrainBSP.java
+END
+MovieLensConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1558747/hama/trunk/ml/src/main/java/org/apache/hama/ml/recommendation/cf/MovieLensConverter.java
+END

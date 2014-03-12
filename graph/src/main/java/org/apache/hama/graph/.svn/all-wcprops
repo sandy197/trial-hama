@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1573269/hama/trunk/graph/src/main/java/org/apache/hama/graph
+END
+AggregationRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1560672/hama/trunk/graph/src/main/java/org/apache/hama/graph/AggregationRunner.java
+END
+Aggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1560672/hama/trunk/graph/src/main/java/org/apache/hama/graph/Aggregator.java
+END
+GraphJobRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1573269/hama/trunk/graph/src/main/java/org/apache/hama/graph/GraphJobRunner.java
+END
+MinAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1560672/hama/trunk/graph/src/main/java/org/apache/hama/graph/MinAggregator.java
+END
+MaxAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1560672/hama/trunk/graph/src/main/java/org/apache/hama/graph/MaxAggregator.java
+END
+OffHeapVerticesInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1559478/hama/trunk/graph/src/main/java/org/apache/hama/graph/OffHeapVerticesInfo.java
+END
+VertexMessageIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1449666/hama/trunk/graph/src/main/java/org/apache/hama/graph/VertexMessageIterable.java
+END
+VertexOutputWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1451131/hama/trunk/graph/src/main/java/org/apache/hama/graph/VertexOutputWriter.java
+END
+ListVerticesInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1556453/hama/trunk/graph/src/main/java/org/apache/hama/graph/ListVerticesInfo.java
+END
+GraphJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1560672/hama/trunk/graph/src/main/java/org/apache/hama/graph/GraphJob.java
+END
+VertexInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1560672/hama/trunk/graph/src/main/java/org/apache/hama/graph/VertexInterface.java
+END
+MapVerticesInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1556453/hama/trunk/graph/src/main/java/org/apache/hama/graph/MapVerticesInfo.java
+END
+VerticesInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1555020/hama/trunk/graph/src/main/java/org/apache/hama/graph/VerticesInfo.java
+END
+DefaultVertexOutputWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1525197/hama/trunk/graph/src/main/java/org/apache/hama/graph/DefaultVertexOutputWriter.java
+END
+AbsDiffAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1560672/hama/trunk/graph/src/main/java/org/apache/hama/graph/AbsDiffAggregator.java
+END
+GraphJobMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1560570/hama/trunk/graph/src/main/java/org/apache/hama/graph/GraphJobMessage.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1557484/hama/trunk/graph/src/main/java/org/apache/hama/graph/Edge.java
+END
+AbstractAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1560672/hama/trunk/graph/src/main/java/org/apache/hama/graph/AbstractAggregator.java
+END
+SumAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1560672/hama/trunk/graph/src/main/java/org/apache/hama/graph/SumAggregator.java
+END
+IDSkippingIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1555020/hama/trunk/graph/src/main/java/org/apache/hama/graph/IDSkippingIterator.java
+END
+DiskVerticesInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1557484/hama/trunk/graph/src/main/java/org/apache/hama/graph/DiskVerticesInfo.java
+END
+OutgoingVertexMessagesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1570039/hama/trunk/graph/src/main/java/org/apache/hama/graph/OutgoingVertexMessagesManager.java
+END
+AverageAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1350092/hama/trunk/graph/src/main/java/org/apache/hama/graph/AverageAggregator.java
+END
+Vertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1569340/hama/trunk/graph/src/main/java/org/apache/hama/graph/Vertex.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1350092/hama/trunk/graph/src/main/java/org/apache/hama/graph/package.html
+END
+VertexInputReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1570508/hama/trunk/graph/src/main/java/org/apache/hama/graph/VertexInputReader.java
+END

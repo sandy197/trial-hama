@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/test/java/org/apache/hama/util
+END
+TestNumeric.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/test/java/org/apache/hama/util/TestNumeric.java
+END
+TestZKUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1350713/hama/trunk/core/src/test/java/org/apache/hama/util/TestZKUtil.java
+END
+TestBytes.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/test/java/org/apache/hama/util/TestBytes.java
+END
+TestRandomVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/test/java/org/apache/hama/util/TestRandomVariable.java
+END

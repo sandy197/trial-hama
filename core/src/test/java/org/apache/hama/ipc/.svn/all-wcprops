@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1518059/hama/trunk/core/src/test/java/org/apache/hama/ipc
+END
+TestIPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1518059/hama/trunk/core/src/test/java/org/apache/hama/ipc/TestIPC.java
+END
+TestRPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/test/java/org/apache/hama/ipc/TestRPC.java
+END

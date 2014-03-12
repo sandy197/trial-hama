@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1570039/hama/trunk/core/src/test/java/org/apache/hama/bsp
+END
+TestBSPTaskFaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1565212/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestBSPTaskFaults.java
+END
+TestCheckpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1570039/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestCheckpoint.java
+END
+TestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1442476/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestMessages.java
+END
+TestPartitioning.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1537427/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestPartitioning.java
+END
+TestFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1476398/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestFileInputFormat.java
+END
+TestTaskAllocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1369575/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestTaskAllocation.java
+END
+TestBSPMasterGroomServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1554740/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestBSPMasterGroomServer.java
+END
+TestCompositeInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1546951/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestCompositeInputFormat.java
+END
+TestPersistQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1559885/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestPersistQueue.java
+END
+TestBSPMessageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1565560/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestBSPMessageBundle.java
+END
+TestKeyValueTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1554740/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestKeyValueTextInputFormat.java
+END
+TestZooKeeper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestZooKeeper.java
+END
+TestLocalRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1522784/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestLocalRunner.java
+END
+TestClusterStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/test/java/org/apache/hama/bsp/TestClusterStatus.java
+END

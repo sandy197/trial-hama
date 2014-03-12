@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1470171/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/bundle
+END
+ByteBufferBSPMessageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1470171/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/bundle/ByteBufferBSPMessageBundle.java
+END
+BSPMessageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1470171/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/bundle/BSPMessageBundle.java
+END
+HeapByteArrayBSPMessageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1470171/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/bundle/HeapByteArrayBSPMessageBundle.java
+END
+POJOMessageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1470171/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/bundle/POJOMessageBundle.java
+END
+WritableMessageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1470171/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/bundle/WritableMessageBundle.java
+END

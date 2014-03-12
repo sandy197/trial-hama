@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/1518055/hama/trunk/ml/src/test/resources
+END
+linear_regression_data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1512950/hama/trunk/ml/src/test/resources/linear_regression_data.txt
+END
+logistic_regression_data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1512950/hama/trunk/ml/src/test/resources/logistic_regression_data.txt
+END
+vd_file_sample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1398665/hama/trunk/ml/src/test/resources/vd_file_sample.txt
+END
+dimensional_reduction.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1518055/hama/trunk/ml/src/test/resources/dimensional_reduction.txt
+END

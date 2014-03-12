@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1549842/hama/trunk/ml/src/test/java/org/apache/hama/ml/ann
+END
+TestSmallLayeredNeuralNetworkMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/test/java/org/apache/hama/ml/ann/TestSmallLayeredNeuralNetworkMessage.java
+END
+TestAutoEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1548171/hama/trunk/ml/src/test/java/org/apache/hama/ml/ann/TestAutoEncoder.java
+END
+TestSmallLayeredNeuralNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1549842/hama/trunk/ml/src/test/java/org/apache/hama/ml/ann/TestSmallLayeredNeuralNetwork.java
+END

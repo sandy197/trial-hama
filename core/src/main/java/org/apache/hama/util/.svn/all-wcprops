@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1537427/hama/trunk/core/src/main/java/org/apache/hama/util
+END
+ReflectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1449666/hama/trunk/core/src/main/java/org/apache/hama/util/ReflectionUtils.java
+END
+BSPNetUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1522784/hama/trunk/core/src/main/java/org/apache/hama/util/BSPNetUtils.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/util/package.html
+END
+ClusterUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/util/ClusterUtil.java
+END
+ZKUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/main/java/org/apache/hama/util/ZKUtil.java
+END
+SocketIOWithTimeout.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/util/SocketIOWithTimeout.java
+END
+ProgramDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/util/ProgramDriver.java
+END
+SocketInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/util/SocketInputStream.java
+END
+SocketOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/util/SocketOutputStream.java
+END
+RandomVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/util/RandomVariable.java
+END
+LRUCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/util/LRUCache.java
+END
+Bytes.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/util/Bytes.java
+END
+BSPServletUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/util/BSPServletUtil.java
+END
+VersionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/util/VersionInfo.java
+END
+RunJar.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/util/RunJar.java
+END
+DistCacheUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1514580/hama/trunk/core/src/main/java/org/apache/hama/util/DistCacheUtils.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor
+END
+Monitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor/Monitor.java
+END
+Federator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/monitor/Federator.java
+END
+ZKCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor/ZKCollector.java
+END
+MonitorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor/MonitorListener.java
+END
+Configurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor/Configurator.java
+END
+MetricsTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor/MetricsTag.java
+END
+Metric.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1350292/hama/trunk/core/src/main/java/org/apache/hama/monitor/Metric.java
+END
+MetricsRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/monitor/MetricsRecord.java
+END

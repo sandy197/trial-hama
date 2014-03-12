@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1571961/hama/trunk/examples/src/test/java/org/apache/hama/examples
+END
+RandBenchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1448523/hama/trunk/examples/src/test/java/org/apache/hama/examples/RandBenchTest.java
+END
+SpMVTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1555030/hama/trunk/examples/src/test/java/org/apache/hama/examples/SpMVTest.java
+END
+SSSPTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1449666/hama/trunk/examples/src/test/java/org/apache/hama/examples/SSSPTest.java
+END
+PageRankTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1456332/hama/trunk/examples/src/test/java/org/apache/hama/examples/PageRankTest.java
+END
+CombineExampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1448523/hama/trunk/examples/src/test/java/org/apache/hama/examples/CombineExampleTest.java
+END
+SymmetricMatrixGenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1537427/hama/trunk/examples/src/test/java/org/apache/hama/examples/SymmetricMatrixGenTest.java
+END
+MindistSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1556453/hama/trunk/examples/src/test/java/org/apache/hama/examples/MindistSearchTest.java
+END
+BipartiteMatchingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1564610/hama/trunk/examples/src/test/java/org/apache/hama/examples/BipartiteMatchingTest.java
+END
+PiEstimatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1448523/hama/trunk/examples/src/test/java/org/apache/hama/examples/PiEstimatorTest.java
+END
+NeuralNetworkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1564008/hama/trunk/examples/src/test/java/org/apache/hama/examples/NeuralNetworkTest.java
+END
+DynamicGraphTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1556453/hama/trunk/examples/src/test/java/org/apache/hama/examples/DynamicGraphTest.java
+END
+FastGraphGenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1537427/hama/trunk/examples/src/test/java/org/apache/hama/examples/FastGraphGenTest.java
+END
+SemiClusterMatchingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1571961/hama/trunk/examples/src/test/java/org/apache/hama/examples/SemiClusterMatchingTest.java
+END
+LinearRegressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1448523/hama/trunk/examples/src/test/java/org/apache/hama/examples/LinearRegressionTest.java
+END
+LogisticRegressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1448523/hama/trunk/examples/src/test/java/org/apache/hama/examples/LogisticRegressionTest.java
+END

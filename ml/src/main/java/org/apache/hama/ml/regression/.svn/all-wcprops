@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1554532/hama/trunk/ml/src/main/java/org/apache/hama/ml/regression
+END
+LinearRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1554532/hama/trunk/ml/src/main/java/org/apache/hama/ml/regression/LinearRegression.java
+END
+LinearRegressionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/main/java/org/apache/hama/ml/regression/LinearRegressionModel.java
+END
+CostFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/main/java/org/apache/hama/ml/regression/CostFunction.java
+END
+LogisticRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1554532/hama/trunk/ml/src/main/java/org/apache/hama/ml/regression/LogisticRegression.java
+END
+LogisticRegressionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/main/java/org/apache/hama/ml/regression/LogisticRegressionModel.java
+END
+RegressionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/main/java/org/apache/hama/ml/regression/RegressionModel.java
+END
+HypothesisFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/main/java/org/apache/hama/ml/regression/HypothesisFunction.java
+END
+VectorDoubleFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/main/java/org/apache/hama/ml/regression/VectorDoubleFileInputFormat.java
+END
+GradientDescentBSP.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1554532/hama/trunk/ml/src/main/java/org/apache/hama/ml/regression/GradientDescentBSP.java
+END

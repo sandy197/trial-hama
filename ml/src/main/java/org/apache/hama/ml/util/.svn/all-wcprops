@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1548171/hama/trunk/ml/src/main/java/org/apache/hama/ml/util
+END
+FeatureTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1548171/hama/trunk/ml/src/main/java/org/apache/hama/ml/util/FeatureTransformer.java
+END
+DefaultFeatureTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1548171/hama/trunk/ml/src/main/java/org/apache/hama/ml/util/DefaultFeatureTransformer.java
+END

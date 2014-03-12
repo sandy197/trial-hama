@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/test/resources
+END
+hama-metrics-msys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/test/resources/hama-metrics-msys.properties
+END
+hama-metrics-test-config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1350092/hama/trunk/core/src/test/resources/hama-metrics-test-config.properties
+END

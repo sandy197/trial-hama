@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1556781/hama/trunk/ml/src/main/java/org/apache/hama/ml/kmeans
+END
+KMeansBSP.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1556781/hama/trunk/ml/src/main/java/org/apache/hama/ml/kmeans/KMeansBSP.java
+END
+CenterMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1537427/hama/trunk/ml/src/main/java/org/apache/hama/ml/kmeans/CenterMessage.java
+END

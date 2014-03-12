@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1559885/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/queue
+END
+MessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1557644/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/queue/MessageQueue.java
+END
+BSPMessageInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1470171/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/queue/BSPMessageInterface.java
+END
+ByteArrayMessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1470171/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/queue/ByteArrayMessageQueue.java
+END
+MemoryQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1559885/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/queue/MemoryQueue.java
+END
+SortedMemoryQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1559885/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/queue/SortedMemoryQueue.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1412231/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/queue/package.html
+END
+DiskQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1557644/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/queue/DiskQueue.java
+END
+SingleLockQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1557644/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/queue/SingleLockQueue.java
+END
+POJOMessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1470171/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/queue/POJOMessageQueue.java
+END
+SynchronizedQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1448523/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/queue/SynchronizedQueue.java
+END
+SpillingQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1559885/hama/trunk/core/src/main/java/org/apache/hama/bsp/message/queue/SpillingQueue.java
+END

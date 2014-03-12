@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1421058/hama/trunk/contrib/avro-rpc/src/main/java/org/apache/hama/avro
+END
+TestAvroMessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1421058/hama/trunk/contrib/avro-rpc/src/main/java/org/apache/hama/avro/TestAvroMessageManager.java
+END
+AvroMessageManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1421058/hama/trunk/contrib/avro-rpc/src/main/java/org/apache/hama/avro/AvroMessageManagerImpl.java
+END
+AvroBSPMessageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1421058/hama/trunk/contrib/avro-rpc/src/main/java/org/apache/hama/avro/AvroBSPMessageBundle.java
+END
+Sender.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1421058/hama/trunk/contrib/avro-rpc/src/main/java/org/apache/hama/avro/Sender.java
+END
